@@ -63,6 +63,7 @@ class TaskListViewController: UITableViewController {
             alpha: 1
         )
     }
+    
     @objc private func addNewTask() {
         
     }
